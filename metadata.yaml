@@ -1,0 +1,32 @@
+_repo: Geology-and-Inhabitants-of-the-Ancient-World_62414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Owen, Richard
+    birthdate: 1804
+    deathdate: 1892
+    gutenberg_agent_id: '50656'
+    url: http://www.gutenberg.org/2009/agents/50656
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Owen
+description: ''
+gutenberg_issued: '2020-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62414'
+  lccn: '16000284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AM'
+- !lcc 'QE'
+- !lcsh 'Crystal Palace (Great Exhibition, 1851, London, England) -- Guidebooks'
+- !lcsh 'Geology -- Exhibitions'
+- !lcsh 'Paleontology -- Exhibitions'
+- !lcsh 'Geological museums'
+- !lcsh 'Great Exhibition (1851 : London, England) -- Guidebooks'
+- !lcsh 'Dinosaurs -- Exhibitions'
+- GITenberg
+title: Geology and Inhabitants of the Ancient World
+url: http://www.gutenberg.org/ebooks/62414
